@@ -67,7 +67,7 @@ body {
 }
 
 
-@media (max-width: 386px) {
+@media (max-width: 388px) {
   /* Header */
   .navbar-brand h1 { /* Sust insaan */
     padding-top: 5px;
