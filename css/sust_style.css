@@ -65,3 +65,25 @@ body {
   border: 2px solid #3F0C1F;
   padding: 0px;
 }
+
+
+@media (max-width: 386px) {
+  /* Header */
+  .navbar-brand h1 { /* Sust insaan */
+    padding-top: 5px;
+    font-size: 1.25em;
+  }
+
+.navbar-brand p {
+  font-size: .6em;
+  margin-top: 5px;
+}
+
+  .hidden-xxs {
+    display: none !important;
+  }
+
+  .visible-xxs{
+    display: block !important;
+  }
+  }
